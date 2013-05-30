@@ -10,5 +10,5 @@ void setup() {
 void loop() {
   Serial.println("Add your GitHub name to the code to test creating a pull request");
   Serial.println("Hello Github from:");
-  Serial.println("Rickl0n");
+  Serial.println("@Ricklon");
 }
